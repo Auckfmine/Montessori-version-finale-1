@@ -19,7 +19,7 @@
 - [Flutter](https://flutter.io) - Flutter
 
 ## Some screenShots from the app :
-![splash screen](https://user-images.githubusercontent.com/52293289/110183901-cc285c00-7e07-11eb-9c24-215f5cc82481.png)
+
 ![LoginPage](https://user-images.githubusercontent.com/52293289/110183904-ce8ab600-7e07-11eb-85fe-9150f43ad0db.png)
 ![SignUpPage](https://user-images.githubusercontent.com/52293289/110183912-d0ed1000-7e07-11eb-9c8a-8d67af79c573.png)
 ![Menu](https://user-images.githubusercontent.com/52293289/110183923-d2b6d380-7e07-11eb-8f63-ce32b6700bf0.png)
